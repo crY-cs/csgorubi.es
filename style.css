@@ -10,7 +10,7 @@ html, body{
     min-width: 1000px;
     padding: 0;
     margin: 0;
-    background-color: blue;		
+    background: url(gradient.jpeg);		
     overflow-x: hidden;
     color: white;
 }
